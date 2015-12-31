@@ -49,6 +49,8 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 + Swedish: [github](/free-programming-books-se.md)
 + Turkish: [github](/free-programming-books-tr.md)
 + Ukrainian: [github](/free-programming-books-ua.md)
++ ##
++ Xgqfrms2015:[github](https://github.com/xgqfrms2015/free-programming-books-zh_CN)
 
 
 ### Noticeable lists from [reSRC](http://resrc.io/)
